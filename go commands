@@ -1,0 +1,6 @@
+## go commands
+
+go env
+go version
+go help
+go help fm -> forma code
